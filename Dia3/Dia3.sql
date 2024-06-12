@@ -121,6 +121,16 @@ select nombre, apellido1, apellido2, puesto from empleado where puesto != "Repre
 select nombre_cliente, pais from cliente where pais = "Spain";
 
 -- Devuelve un listado con los distintos estados por los que puede pasar un pedido.
+select estado from pedido;
+
+-- Devuelve un listado con el código de cliente de aquellos clientes que realizaron algún pago en 2008. Tenga en cuenta que deberá eliminar aquellos códigos de cliente que aparezcan repetidos. Resuelva la consulta:
+-- Utilizando la función YEAR de MySQL.
+-- Utilizando la función DATE_FORMAT de MySQL.
+-- Sin utilizar ninguna de las funciones anteriores.
+select codigo_cliente, nombre_cliente
+
+
+
 
 
 -- Desarrollado por Hernan Mendez  /    1101685607
