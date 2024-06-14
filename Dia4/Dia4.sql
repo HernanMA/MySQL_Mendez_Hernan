@@ -82,4 +82,6 @@ right join ciudad -- Ciudad es un conjunto B
 on pais.id = ciudad.id_pais; -- Interseccion de A y B
 
 
-show tables
+show tables;
+
+-- Desarrollado por Hernan Mendez  /    1101685607
