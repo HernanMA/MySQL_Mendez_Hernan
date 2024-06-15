@@ -3,11 +3,13 @@
 -- #####################
 
 -- Creación de la base de datos "tienda"
+show databases;
 
-CREATE DATABASE tienda;
+CREATE DATABASE dia1;
 
-USE tienda;
+USE dia1;
 
+drop database tienda;
 -- ¡CRUD!
 
 -- Crear tabla fabricante
