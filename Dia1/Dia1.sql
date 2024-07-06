@@ -83,5 +83,4 @@ SELECT * from producto;  -- Revisar resultado
 drop table producto;
 show tables;
 
-
 -- Desarrollado por Hernan Mendez / 1101685607

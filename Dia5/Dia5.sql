@@ -669,4 +669,5 @@ from oficina
 inner join empleado on oficina.codigo_oficina = empleado.codigo_oficina
 group by oficina.ciudad;
 
--- Desarrollado por Hernan Mendez  /    1101685607
+
+-- Desarrollado por Hernan Mendez / 1101685607

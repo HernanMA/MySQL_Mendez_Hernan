@@ -265,4 +265,5 @@ select * from profesor;
 select * from alumno_se_matricula_asignatura;
 select * from curso_escolar;
 
--- #### Desarrollado por Hernan Mendez Guerrero / 1101685607
+
+-- Desarrollado por Hernan Mendez / 1101685607

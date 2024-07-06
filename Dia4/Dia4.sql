@@ -84,4 +84,5 @@ on pais.id = ciudad.id_pais; -- Interseccion de A y B
 
 show tables;
 
--- Desarrollado por Hernan Mendez  /    1101685607
+
+-- Desarrollado por Hernan Mendez / 1101685607

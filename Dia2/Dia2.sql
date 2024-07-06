@@ -84,6 +84,4 @@ select * from grado;
 
 show tables;
 
-
-
 -- Desarrollado por Hernan Mendez / 1101685607

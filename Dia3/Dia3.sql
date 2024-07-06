@@ -255,4 +255,6 @@ on pedido.codigo_pedido = detalle_pedido.codigo_pedido
 inner join producto
 on detalle_pedido.codigo_producto = producto.codigo_producto;
 
--- Desarrollado por Hernan Mendez  /    1101685607
+
+
+-- Desarrollado por Hernan Mendez / 1101685607
